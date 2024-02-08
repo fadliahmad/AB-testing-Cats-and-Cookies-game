@@ -21,6 +21,6 @@ Executive summary:
       🔀 Find the difference 
       🔍 Zooming in on the difference  
       🎲 The probability of a difference
-      🔁 Repeat on 7-day retention
+      🔁 Repeat all processes on 7-day retention
       
  📒 Notes: 
