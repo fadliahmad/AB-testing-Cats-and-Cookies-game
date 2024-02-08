@@ -15,10 +15,10 @@ Executive summary:
 
     There are several points that we will analyze: 
     
-      🆎 The AB-test data 
+      🆎 The A/B-test data 
       📊 The distribution of game rounds
       🔁 Overall 1-day retention
-      🔀 Find the difference 
+      🔀 Find the difference between A/B
       🔍 Zooming in on the difference  
       🎲 The probability of a difference
       🔁 Repeat all processes on 7-day retention
